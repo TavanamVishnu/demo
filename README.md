@@ -22,3 +22,7 @@ git remote -v -> what is remote repo we are using<br>
 git branch -> to check which branch we are on<br>
 git branch -M main -> to change branch name <br>
 git push -u origin main -> -u is used to set upstream like if we are working on smae repo for long time then we dont need to write repeatedly git push origin main from next time we can simply write git push<br>
+git checkout -b branchname -> to create new branch and switch to that branch<br>
+git checkout branchname -> used to switch between different branches<br>
+git branch -d branchname -> to delete a particular branch <br> but cant delete branch we are currently working on<br>
+
