@@ -13,4 +13,5 @@ Commands
 ---------
 git add -> adds new or modified files in our working directory to git staging area(ready to commit)(engagement)
 git add . -> to take all modifications in working area to staging area
-git commit -> (married)
+git commit -> (married) but simply commiting doesnt make changes to github
+git push -> update repo in github(update local changes to github repo)
