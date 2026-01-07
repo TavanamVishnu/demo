@@ -25,4 +25,6 @@ git push -u origin main -> -u is used to set upstream like if we are working on 
 git checkout -b branchname -> to create new branch and switch to that branch<br>
 git checkout branchname -> used to switch between different branches<br>
 git branch -d branchname -> to delete a particular branch <br> but cant delete branch we are currently working on<br>
-
+git diff branchname -> used to compare differences between branchname and the branch we are on<br>
+pull request (PR) -> let the others know about changes you made to code in your feature branch and wanting to merge with main branch<br>
+first PR is reviewed and commented and merged<br>
