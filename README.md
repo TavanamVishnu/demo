@@ -11,6 +11,9 @@ unmodified -> unchanged after commited<br>
 branches are used to copy status of main branch at a point and work from that state if any eroors <br>occured then they will be still on that branch it doesnt effect main branch<br>
 Commands<br>
 ---------<br>
+git config --global user.name "Your Name"<br>
+   git config --global user.email "[email protected]"<br>
+   
 git add -> adds new or modified files in our working directory to git staging area(ready to commit)(engagement)<br>
 git add . -> to take all modifications in working area to staging area<br>
 git commit -> (married) but simply commiting doesnt make changes to github<br>
@@ -28,3 +31,4 @@ git branch -d branchname -> to delete a particular branch <br> but cant delete b
 git diff branchname -> used to compare differences between branchname and the branch we are on<br>
 pull request (PR) -> let the others know about changes you made to code in your feature branch and wanting to merge with main branch<br>
 first PR is reviewed and commented and merged<br>
+git pull origin main -> take the updated main branch form origin repo and update in local machine <br>
