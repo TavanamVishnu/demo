@@ -20,7 +20,7 @@ git commit -> (married) but simply commiting doesnt make changes to github<br>
 git push -> update repo in github(update local changes to github repo)<br>
 git push origin main -> origin means the repo which we cloned and main is the branch <br>
 git init -> used to create new git repo<br>
-git remote add origin ->add remote repository named origin and give link to the desired repo<br>
+git remote add origin link->add remote repository named origin and give link to the desired repo<br>
 git remote -v -> what is remote repo we are using<br>
 git branch -> to check which branch we are on<br>
 git branch -M main -> to change branch name <br>
