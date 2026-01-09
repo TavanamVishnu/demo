@@ -11,6 +11,9 @@ unmodified -> unchanged after commited<br>
 branches are used to copy status of main branch at a point and work from that state if any eroors <br>occured then they will be still on that branch it doesnt effect main branch<br>
 Commands<br>
 ---------<br>
+git config --global user.name "Your Name"<br>
+   git config --global user.email "[email protected]"<br>
+   
 git add -> adds new or modified files in our working directory to git staging area(ready to commit)(engagement)<br>
 git add . -> to take all modifications in working area to staging area<br>
 git commit -> (married) but simply commiting doesnt make changes to github<br>
